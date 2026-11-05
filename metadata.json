@@ -1,0 +1,6 @@
+{
+  "name": "UNO 3D Royal — Online & Google Sheet Sync",
+  "description": "Game UNO 3D trực tuyến cùng bạn bè với bàn chơi WebGL 3D chi tiết, mã phòng & khôi phục phiên bằng Username/Code, thả cảm xúc & bình luận trực tiếp, tích hợp đồng bộ Google Sheet (Apps Script).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
