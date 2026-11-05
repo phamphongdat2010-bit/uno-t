@@ -5,6 +5,10 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    export default defineConfig(() => {
+  return {
+    base: '/uno-t/',
+    plugins: [react(), tailwindcss()],
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
